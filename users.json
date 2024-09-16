@@ -1,0 +1,72 @@
+[
+    {
+        "id": 1,
+        "first_name": "Damon",
+        "last_name": "Thieme",
+        "email": "dthieme0@lulu.com",
+        "gender": "Male"
+    },
+    {
+        "id": 2,
+        "first_name": "Marline",
+        "last_name": "Guisby",
+        "email": "mguisby1@dyndns.org",
+        "gender": "Female"
+    },
+    {
+        "id": 3,
+        "first_name": "Biddy",
+        "last_name": "Burree",
+        "email": "bburree2@edublogs.org",
+        "gender": "Female"
+    },
+    {
+        "id": 4,
+        "first_name": "Adham",
+        "last_name": "Swinbourne",
+        "email": "aswinbourne3@cornell.edu",
+        "gender": "Polygender"
+    },
+    {
+        "id": 5,
+        "first_name": "Leone",
+        "last_name": "Jantet",
+        "email": "ljantet4@cloudflare.com",
+        "gender": "Female"
+    },
+    {
+        "id": 6,
+        "first_name": "Ferdy",
+        "last_name": "Yarmouth",
+        "email": "fyarmouth5@ibm.com",
+        "gender": "Male"
+    },
+    {
+        "id": 7,
+        "first_name": "Verile",
+        "last_name": "Nottram",
+        "email": "vnottram6@nbcnews.com",
+        "gender": "Female"
+    },
+    {
+        "id": 8,
+        "first_name": "Devlen",
+        "last_name": "Collelton",
+        "email": "dcollelton7@xrea.com",
+        "gender": "Male"
+    },
+    {
+        "id": 9,
+        "first_name": "Yolande",
+        "last_name": "Clutton",
+        "email": "yclutton8@yolasite.com",
+        "gender": "Female"
+    },
+    {
+        "id": 10,
+        "first_name": "Tyler",
+        "last_name": "Durbridge",
+        "email": "tdurbridge9@columbia.edu",
+        "gender": "Male"
+    }
+]
